@@ -37,7 +37,7 @@ class App extends React.Component {
 
         <footer className="fadeInUp" style={{animationDelay: '2s'}}>
             <a
-                  href="https://github.com/covid19india/covid19india-react"
+                  href="https://github.com/DruvaKumarbt/Corona-app.git"
                   className="button github"
                   target="_blank"
                   rel="noopener noreferrer"
